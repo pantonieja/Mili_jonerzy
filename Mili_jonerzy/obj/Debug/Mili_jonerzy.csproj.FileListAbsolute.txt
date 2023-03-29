@@ -1,0 +1,11 @@
+C:\Users\student\Desktop\AZproj\Mili_jonerzy\bin\Debug\Mili_jonerzy.exe.config
+C:\Users\student\Desktop\AZproj\Mili_jonerzy\bin\Debug\Mili_jonerzy.exe
+C:\Users\student\Desktop\AZproj\Mili_jonerzy\bin\Debug\Mili_jonerzy.pdb
+C:\Users\student\Desktop\AZproj\Mili_jonerzy\obj\Debug\Mili_jonerzy.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\AZproj\Mili_jonerzy\obj\Debug\Mili_jonerzy.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\AZproj\Mili_jonerzy\obj\Debug\Mili_jonerzy.Form1.resources
+C:\Users\student\Desktop\AZproj\Mili_jonerzy\obj\Debug\Mili_jonerzy.Properties.Resources.resources
+C:\Users\student\Desktop\AZproj\Mili_jonerzy\obj\Debug\Mili_jonerzy.csproj.GenerateResource.cache
+C:\Users\student\Desktop\AZproj\Mili_jonerzy\obj\Debug\Mili_jonerzy.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\AZproj\Mili_jonerzy\obj\Debug\Mili_jonerzy.exe
+C:\Users\student\Desktop\AZproj\Mili_jonerzy\obj\Debug\Mili_jonerzy.pdb
